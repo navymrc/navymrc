@@ -17,3 +17,5 @@
 - Databases:
   - MySQL
   - MongoDb
+- Algorithms and Data Structures
+  - Python
