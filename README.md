@@ -13,10 +13,11 @@
   - React
 - Backend Development:
   - NodeJS
-  - Express
-  - PHP
+  - Nestjs
 - Databases:
   - MySQL
   - MongoDb
+- Design
+  - Figma
 - Algorithms and Data Structures
   - Python
